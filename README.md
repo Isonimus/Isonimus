@@ -86,10 +86,3 @@ Vue front ends measured in tens of thousands of commits. The interesting parts h
 content-authoring CMS that lets each client tailor their own courseware, AI-assisted content and
 roleplay-simulation generation, gamified learning modules, and a talent-assessment product. That
 codebase is private, so there are no links here, but I'm glad to talk through the architecture.
-
----
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Isonimus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isonimus&layout=compact&hide_border=true&langs_count=8" height="160">
-</p>
