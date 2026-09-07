@@ -61,7 +61,7 @@ client-side at **[tindalabs.dev](https://tindalabs.github.io/tindalabs.dev/)**.
 | Project | What it is | Stack |
 |---|---|---|
 | **[monero-miner](https://github.com/Isonimus/monero-miner)** | A high-performance Monero CPU miner tuned for lower-end laptops and non-gaming PCs. | Rust |
-| **The Adversary** *(private)* | A wide-spectrum WiFi / BLE / IR / RFID / HID security-testing platform for the M5 Cardputer: handshake capture, evil-twin captive portals, GPS wardriving with WiGLE upload, DuckyScript over USB and BLE. | C / C++ (ESP32-S3) |
+| **[The Adversary](https://github.com/Isonimus/adversary)** | A wide-spectrum WiFi / BLE / Sub-GHz / IR / RFID / HID security-testing platform for the M5 Cardputer: handshake capture, evil-twin captive portals, GPS wardriving with WiGLE upload, CC1101 Sub-GHz OOK capture and replay, and DuckyScript over USB and BLE. For authorized testing and research only. | C / C++ (ESP32-S3) |
 | **Dupin** *(private)* | The defensive counterpart: a passive, monitor-mode-only Wi-Fi intelligence toolkit that baselines an environment and flags evil twins, rogue APs, and security downgrades. Never transmits. | C / C++ (ESP32-S3) |
 
 ## Simulations, games & ML
